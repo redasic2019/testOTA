@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/redasic2019/testOTA/main/hello-world.bin
+
+https://github.com/redasic2019/testOTA/raw/main/hello-world.bin
